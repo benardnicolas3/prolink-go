@@ -1,0 +1,1 @@
+https://account.microsoft.com/devices/device?deviceId=global%5B0018C002FFFB37B1%5D
